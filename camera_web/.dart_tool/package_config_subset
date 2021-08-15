@@ -1,11 +1,11 @@
-camera_platform_interface
-2.12
-file:///home/edlman/Zdrojaky/src/flutter/lib/camera/camera_platform_interface/
-file:///home/edlman/Zdrojaky/src/flutter/lib/camera/camera_platform_interface/lib/
 camera_web
 2.12
 file:///home/edlman/Zdrojaky/src/flutter/lib/camera/camera_web/
 file:///home/edlman/Zdrojaky/src/flutter/lib/camera/camera_web/lib/
+camera_platform_interface
+2.12
+file:///opt/flutter-sdk/.pub-cache/git/flutter_camera-c35c526ae3e8ba5a021b998b3cfd4b6638d2a029/camera_platform_interface/
+file:///opt/flutter-sdk/.pub-cache/git/flutter_camera-c35c526ae3e8ba5a021b998b3cfd4b6638d2a029/camera_platform_interface/lib/
 _fe_analyzer_shared
 2.12
 file:///opt/flutter-sdk/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-22.0.0/

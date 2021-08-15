@@ -33,7 +33,7 @@
     },
     {
       "name": "camera_platform_interface",
-      "rootUri": "../../camera_platform_interface",
+      "rootUri": "file:///opt/flutter-sdk/.pub-cache/git/flutter_camera-c35c526ae3e8ba5a021b998b3cfd4b6638d2a029/camera_platform_interface",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -362,7 +362,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-08-15T15:31:45.673888Z",
+  "generated": "2021-08-15T19:59:09.690145Z",
   "generator": "pub",
   "generatorVersion": "2.13.4"
 }

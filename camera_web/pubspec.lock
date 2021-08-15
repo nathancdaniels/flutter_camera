@@ -39,9 +39,11 @@ packages:
   camera_platform_interface:
     dependency: "direct main"
     description:
-      path: "../camera_platform_interface"
-      relative: true
-    source: path
+      path: camera_platform_interface
+      ref: HEAD
+      resolved-ref: c35c526ae3e8ba5a021b998b3cfd4b6638d2a029
+      url: "https://github.com/anycode/flutter_camera.git"
+    source: git
     version: "0.0.1"
   characters:
     dependency: transitive
